@@ -1,1 +1,1 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/XiQ2onLo)
+Meu nome é Gabriel Augusto Basílio Da Cruz Miranda, meu número de matrícula é 202376016 e essa é a atividade 3 da disciplina DCC 202.
