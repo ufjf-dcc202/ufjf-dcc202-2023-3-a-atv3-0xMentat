@@ -1,1 +1,1 @@
-Meu nome é Gabriel Augusto Basílio Da Cruz Miranda, meu número de matrícula é 202376016 e essa é a atividade 3 da disciplina DCC 202.
+Meu nome é Gabriel Augusto Basílio Da Cruz Miranda meu número de matrícula é 202376016 e essa é a atividade 3 da disciplina DCC 202.
